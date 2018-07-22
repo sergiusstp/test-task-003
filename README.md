@@ -49,3 +49,15 @@ Inside package searchengine you can find start class SearchEngineApplication (fo
 Run them like general Java SE application, using context menu without parameters provided.
 
 Small configuration is done using application.properties file that is located under resource package.
+
+Each spring boot service (client and server) run on localhost, but with different ports. Server is using port 8010 and client is using 8080.
+
+To access client web page, you may enter localhost:8080 in your browser and you'll see the web page.
+
+There are 4 options provided to access search engine from the client side. Detailed walkthrough what to do with web page is given with Youtube video. Link is provided in the chapter above.
+
+In general, you can
+* get all documents and they will be displayed in the table
+* get one document and it will be displayed in the table
+* save new document to the server and returned key will be displayed on the page
+* get document keys by given condition and that keys will be displayed on the page
