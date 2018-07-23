@@ -64,7 +64,7 @@ In general, you can
 
 ## Information about time spent
 
-11 hours of pure time.
+13 hours of pure time.
 
 ## Detailed project timeline
 
@@ -99,3 +99,13 @@ In general, you can
 15 min (July 22, 11:40-11:55 pm) Recording youtube video for the manual.
 
 75 min (July 23, 02:00-03:15 am) Writing detailed description in README.md file.
+
+Total is 785 min or 13 hours of pure time.
+
+## The bottom line
+
+That depends.
+
+In general the realistic time expectation for the task like this is 2-3 business days without the risk of employee burnout in the short term period.
+
+Yes, this task can be done within one business day, but each new task must be very similar to what is done the previous days. Also we need to cut off some documentation to reach the time expectation. Even in that case the realistic expectation should be 1.5 business days.
