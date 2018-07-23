@@ -72,12 +72,30 @@ In general, you can
 
 60 min (July 20, 10:00-11:00 pm) Thinking about best way to do the test task in time, without actual coding.
 
-45 min (July 21, 12:00-12.45 pm) Creating initial server part, basic endpoints and services from existing code sample.
+45 min (July 21, 12:00-12:45 pm) Creating initial server part, basic endpoints and services from existing code sample.
 
-30 min (July 21, 12:45-01.15 pm) Creating GET REST endpoints with business logic.
+30 min (July 21, 12:45-01:15 pm) Creating GET REST endpoints with business logic.
 
-60 min (July 21, 01:30-02.30 pm) Creating POST REST endpoint (save document) with business logic.
+60 min (July 21, 01:30-02:30 pm) Creating POST REST endpoint (save document) with business logic.
 
-80 min (July 21, 03:00-04.20 pm) Creating POST REST endpoint (search document) with business logic.
+80 min (July 21, 03:00-04:20 pm) Creating POST REST endpoint (search document) with business logic.
 
+15 min (July 21, 04:30-04:45 pm) Project cleanup.
 
+60 min (July 21, 04:45-05:45 pm) Tests (JUnit4) for the server service layer.
+
+90 min (July 21, 06:30-08:00 pm) Creating initial client part.
+
+90 min (July 21, 08:45-10:15 pm) Working on Thymeleaf html template design.
+
+60 min (July 22, 12:00-01:00 am) Working on REST endpoint for Web MVC using RestTemplate to get data from the server
+
+40 min (July 22, 02:00-02:40 am) Using Bootstrap 3 to make web page look beautiful
+
+30 min (July 22, 08:45-09:15 pm) Doing light redesign for Controller / Service layer on the client
+
+30 min (July 22, 09:15-09:45 pm) Manual tests using web page to check that everything is working as expected.
+
+15 min (July 22, 11:40-11:55 pm) Recording youtube video for the manual.
+
+75 min (July 23, 02:00-03:15 am) Writing detailed description in README.md file.
