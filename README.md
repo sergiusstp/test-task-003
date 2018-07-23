@@ -61,3 +61,23 @@ In general, you can
 * get one document and it will be displayed in the table
 * save new document to the server and returned key will be displayed on the page
 * get document keys by given condition and that keys will be displayed on the page
+
+## Information about time spent
+
+11 hours of pure time.
+
+## Detailed project timeline
+
+5 min (July 20, 5:00-5:05 pm) Obtaining Test Task from company's representative and checking that I fully understand the task content.
+
+60 min (July 20, 10:00-11:00 pm) Thinking about best way to do the test task in time, without actual coding.
+
+45 min (July 21, 12:00-12.45 pm) Creating initial server part, basic endpoints and services from existing code sample.
+
+30 min (July 21, 12:45-01.15 pm) Creating GET REST endpoints with business logic.
+
+60 min (July 21, 01:30-02.30 pm) Creating POST REST endpoint (save document) with business logic.
+
+80 min (July 21, 03:00-04.20 pm) Creating POST REST endpoint (search document) with business logic.
+
+
